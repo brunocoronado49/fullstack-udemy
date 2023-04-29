@@ -1,4 +1,8 @@
 ./docs
-*.jpg
-*.jpeg
-*.png
+./html/Folder0/Folder3/cat.png
+./html/Folder0/rabbit.png
+./html/Folder1/Folder2/bird.png
+./html/Folder1/fish.png
+./html/dog.png
+./html/portfolio/assets/*.png
+./html/webpages/assets/images/amy.jpg
