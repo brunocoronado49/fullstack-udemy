@@ -1,0 +1,28 @@
+.red-text {
+    color: red;
+}
+
+.green-text {
+    color: green;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.pink-text {
+    color: pink;
+}
+
+#main {
+    color: yellow;
+}
+
+/* Selector para tomar otros atributos */
+p[draggable] {
+    color: yellowgreen;
+}
+
+p[draggable="false"] {
+    color: green;
+}
